@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "411731822423",
+    "project_id": "showfa-76ea0",
+    "storage_bucket": "showfa-76ea0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411731822423:android:861f6cbb855dfe252ce012",
+        "android_client_info": {
+          "package_name": "com.showfa.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411731822423-fi51ar0d2nlnjfov1f4dsfuccv4mmd8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.showfa.customer",
+            "certificate_hash": "be6d8d84f3f9ad24cf0a3d8ff2ff7cb2fe952f66"
+          }
+        },
+        {
+          "client_id": "411731822423-ficia0ba7ok8q107gep26urs43hf3i4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZZp17tgAGioyYLauhIPCn9n8FSdgb9l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411731822423-ficia0ba7ok8q107gep26urs43hf3i4i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "411731822423-gj58mqsncf262l20hgb0l94lqicj5ric.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.showfa.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411731822423:android:ef0f89361c7fe16c2ce012",
+        "android_client_info": {
+          "package_name": "com.showfa.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411731822423-l49db12iooohlgfa622jf5lica94idcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.showfa.driver",
+            "certificate_hash": "be6d8d84f3f9ad24cf0a3d8ff2ff7cb2fe952f66"
+          }
+        },
+        {
+          "client_id": "411731822423-ficia0ba7ok8q107gep26urs43hf3i4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZZp17tgAGioyYLauhIPCn9n8FSdgb9l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411731822423-ficia0ba7ok8q107gep26urs43hf3i4i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "411731822423-gj58mqsncf262l20hgb0l94lqicj5ric.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.showfa.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
